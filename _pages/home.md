@@ -2,36 +2,34 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+  overlay_filter: rgba(255, 0, 255, 0.1)
+  overlay_image: http://i6.xitek.com/photo/201411/19699/1969910/1969910_1417356326_69909800.jpg
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.15.2">Latest release v4.15.2</a></small>
+  欢迎来到Neutrino的个人求职主页
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+  - image_path: https://www.ssyer.com/download/picture/new/zl/91fb17c393ea122affd20beafe6cd1de.jpg?x-oss-process=image/resize,m_lfit,w_1080
+    alt: "个人简历"
+    title: "个人简历"
+    excerpt: "我的个人简历，包含教育经历、获奖情况、校园实践等内容"
+    url: "/docs/1-1-cv/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    btn_label: "立即进入"
+  - image_path: https://www.ssyer.com/download/picture/full/HJxn3LRnG7.jpg?x-oss-process=image/resize,m_lfit,w_1080
+    alt: "个人优势、特长"
+    title: "个人优势、特长"
+    excerpt: "简要介绍我自己的个人优势、特长"
+    url: "/docs/1-2-why-choose/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    btn_label: "立即进入"
+  - image_path: https://images.pexels.com/photos/373076/pexels-photo-373076.jpeg?cs=srgb&dl=blank-composition-data-373076.jpg&fm=jpg
+    alt: "项目经历"
+    title: "项目经历"
+    excerpt: "简要介绍我自己亲自做过的两个项目"
+    url: "/docs/1-2-why-choose/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "立即进入"
 ---
+
+<link rel="stylesheet" href="https://at.alicdn.com/t/font_1128404_q6ba1h94yc.css">
 
 {% include feature_row %}
