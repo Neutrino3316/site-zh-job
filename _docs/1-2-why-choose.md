@@ -2,7 +2,7 @@
 title: "简历"
 permalink: /docs/1-2-why-choose
 excerpt: "为什么要选择你"
-toc: true
+toc: false
 ---
 
 作为面试官，您一定想问这样的问题：“我们为什么要选择你？”。下面就简单讲一下这个问题的答案。
