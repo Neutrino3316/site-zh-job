@@ -1,5 +1,5 @@
 ---
-title: "简历"
+title: "个人优势、特长"
 permalink: /docs/1-2-why-choose/
 excerpt: "为什么要选择你"
 toc: false
