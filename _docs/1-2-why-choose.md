@@ -1,6 +1,6 @@
 ---
 title: "简历"
-permalink: /docs/1-2-why-choose
+permalink: /docs/1-2-why-choose/
 excerpt: "为什么要选择你"
 toc: false
 ---
@@ -9,11 +9,21 @@ toc: false
 
 # 有对口的技能
 
-我
+自己平时使用Python是最多的，对数据分析有一定经验     
 
 # 有对口的项目经验
 
-无论是
+无论是课程的设计还是出于自己兴趣做的项目，都与数据分析有很大关系。
+
+例如做过以下课程设计：
+
+- KMeans算法
+- KNN算法
+- PCA算法
+- 决策树算法
+- Adaboost算法
+
+自己做过的项目有爬虫并分析赔率数据。从获取数据的爬虫、到贮存数据、再到分析数据得出结论，整个过程由我一个人独自完成。
 
 # 能获取到及时的高质量信息
 
@@ -25,6 +35,6 @@ toc: false
 
 # 工作效率高、勤奋认真
 
-- 我在这大半年内，在GitHub上有上千的[contributions](https://github.com/Neutrino3316)
+- 我在这大半年内，在GitHub上有一定的[contributions](https://github.com/Neutrino3316)
 - 我对自己有良好的时间管理，有使用如[滴答清单](https://www.dida365.com)等工具来管理自己的时间
 
