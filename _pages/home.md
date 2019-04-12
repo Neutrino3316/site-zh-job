@@ -24,8 +24,8 @@ feature_row:
   - image_path: https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?cs=srgb&dl=artificial-intelligence-blur-close-up-546819.jpg&fm=jpg
     alt: "项目经历"
     title: "项目经历"
-    excerpt: "简要介绍我自己亲自做过的两个项目"
-    url: "/docs/1-2-why-choose/"
+    excerpt: "简要介绍我自己亲自做过的项目"
+    url: "https://neutrino3316.github.io/balyspusys/"
     btn_class: "btn--primary"
     btn_label: "立即进入"
 ---
